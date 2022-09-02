@@ -18,7 +18,7 @@ Play with Terraform Version
   required_version = "~> 0.14.3" 
   required_version = "= 0.14.4"  
   required_version = ">= 0.13"   
-  required_version = "= 0.13"    
+  required_version = "= 0.13"    ls
   required_version = "~> 0.13"   
 
 
@@ -29,4 +29,3 @@ Play with Provider Version
       version = "~> 2.0"
       version = "~> 3.0"            
 */
-#test
